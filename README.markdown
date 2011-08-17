@@ -2,7 +2,7 @@
 
 - Version: 1.0
 - Date: August 17, 2011
-- GitHub repository: <http://github.com/vu-nguyen/OC-Transpo-Info-App/tree/1.x>
+- GitHub repository: <http://github.com/vu-nguyen/ocapp/tree/1.0>
 
 ## Overview
 
